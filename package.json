@@ -1,0 +1,26 @@
+{
+  "name": "apatite",
+  "version": "0.0.1",
+  "description": "Amazon Product Advertising API client for Node.js",
+  "main": "apatite",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/antond/apatite.git"
+  },
+  "keywords": [
+    "amazon",
+    "product",
+    "advertising",
+    "api",
+    "client",
+    "apatite"
+  ],
+  "author": "Anton Djurasaj <anton.djurasaj@gmail.com>",
+  "contributors": [
+    { "name": "Robert Djurasaj", "email": "robert.djurasaj@gmail.com" }
+  ],
+  "license": "BSD"
+}
